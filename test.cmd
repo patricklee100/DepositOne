@@ -6,3 +6,5 @@ echo %~f0
 endlocal
 echo on
 exit /B 1
+
+#hello
